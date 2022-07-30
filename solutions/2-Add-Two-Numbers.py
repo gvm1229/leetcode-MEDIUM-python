@@ -49,4 +49,4 @@ l1 = ListNode(2, ListNode(4, ListNode(3)))
 l2 = ListNode(5, ListNode(6, ListNode(4)))
 fin = p1.addTwoNumbers(l1, l2)
 
-print(fin)
+print(fin.val)
